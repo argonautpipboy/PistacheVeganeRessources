@@ -863,7 +863,8 @@
 			"quantityPrefix": "2 cs de "
 		}, {
 			"productID": "27",
-			"quantityPrefix": "2 "
+			"quantityPrefix": "2 ",
+			"namePl":"true"
 		}, {
 			"productID": "68",
 			"quantityPrefix": "240 g de "
