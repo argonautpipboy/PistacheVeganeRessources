@@ -1,0 +1,940 @@
+[{
+	"recipeID": "1",
+	"name": "Lasagnes, Légumes et Soja",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "5",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Lasagne",
+			"Proteine"
+		]
+	},
+	"resume": "Les lasagnes sont un classique de la cuisine, plat familial par excellence, leur version vegan est un passage obligé. À tester très rapidement !",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "22",
+			"quantityPrefix": "6 à 8 grandes Feuilles de "
+		}, {
+			"productID": "4",
+			"quantityPrefix": "200g de "
+		}, {
+			"productID": "9",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "16",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "23",
+			"quantityPrefix": "250ml de "
+		}, {
+			"productID": "1",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "2",
+			"quantityPrefix": "2 gousses d'"
+		}, {
+			"productID": "3"
+		}, {
+			"productID": "24",
+			"quantityPrefix": "Quelques Feuilles de "
+		}, {
+			"productID": "20"
+		}, {
+			"productID": "21"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "900",
+			"resume": "Hydrater les protéines de soja en les versant dans un bol et couvrir d'eau chaude (non bouillante). Laissez absorber une quinzaine de minutes."
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Dans une casserole placer l'ail et les oignons hachés, y ajouter 3 cuillères à soupe d'huile d'olive puis faire dorer doucement à feu vif."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Pendant ce temps, commencer à préchauffer le four à une température de 180°C (Th 6-7)."
+		}, {
+			"order": "3",
+			"timerCount": "240",
+			"resume": "Couper la carotte en petits dés ainsi que l'aubergine et faire revenir le tout 4 minutes dans le mélange Oignons-Ail."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Intégrer maintenant la purée de tomate dans les légumes, mélanger l'ensemble."
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Égoutter les protéines de soja et les verser dans la sauce. Saler, poivrer, ajouter quelques feuilles de Basilic émincées et laisser mijoter sur feu doux pendant la préparation de l'étape suivante."
+		}, {
+			"order": "6",
+			"timerCount": "600",
+			"resume": "Faites cuire les feuilles de lasagnes dans une grande casserole d'eau bouillante légèrement salée pendant 8 à 10 minutes puis les égoutter. Il faut que les feuilles ramollissent légèrement sans cuire totalement."
+		}, {
+			"order": "7",
+			"timerCount": "0",
+			"resume": "Huilez un grand plat à gratin. Disposer une première couche de lasagne au fond du plat puis alterner entre des couches de sauce tomate et des couches de lasagnes."
+		}, {
+			"order": "8",
+			"timerCount": "0",
+			"resume": "Finir en versant généreusement la crème de Soja à gratiner au dessus des lasagnes ainsi que sur les côtés."
+		}, {
+			"order": "9",
+			"timerCount": "2100",
+			"resume": "C'est parti maintenant pour 35 à 45 minutes de cuisson à 180°C (Th 6-7) jusqu'à ce que la surface des lasagnes soit bien gratinée. Possibilité de finir avec une cuisson au grill durant 3/4 minutes pour bien faire dorer la sauce soja."
+		}, {
+			"order": "10",
+			"timerCount": "0",
+			"resume": "Dégustez chaud avec une petite salade (une petite préférence pour la mâche) et quelques tomates cerises. Les lasagnes sont même souvent encore plus délicieuses le lendemain !"
+		}]
+	}
+}, {
+	"recipeID": "2",
+	"name": "Pizza maison aux légumes",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": [
+			"Viande",
+			"Pizza"
+		]
+	},
+	"resume": "Avant de devenir végétalienne, j’aimais beaucoup aller acheter des bonnes pizzas, mais aussi en faire maison. Mais comment faire, sans viande, sans fromage ou sans crème fraîche ? Que peut-on bien mettre dans sa pizza lorsque nous sommes vegan ? Alors j’ai essayé et je vous propose donc ma propre version d’une pizza végétarienne. Je vous donne la liste des ingrédients que j’ai sélectionné pour deux pizzas bien gourmandes.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "6"
+		}, {
+			"productID": "7",
+			"quantityPrefix": "1 Bocal de "
+		}, {
+			"productID": "1",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "2",
+			"quantityPrefix": "2 gousses d'"
+		}, {
+			"productID": "8",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "9",
+			"quantityPrefix": "3 "
+		}, {
+			"productID": "10",
+			"quantityPrefix": "200g de "
+		}, {
+			"productID": "11",
+			"quantityPrefix": "1 ou 2 "
+		}, {
+			"productID": "12",
+			"quantityPrefix": "Quelques "
+		}, {
+			"productID": "13"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "Dans un premier temps, coupez vos oignons et les gousses d’ail. Je les coupes personnellement en rondelles, mais vous pouvez aussi les émincer en petits cubes. (préparez les mouchoirs)"
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Épluchez la courgette et les carottes, les coupez en petits cubes. "
+		}, {
+			"order": "2",
+			"timerCount": "300",
+			"resume": "Faites revenir les oignons dans un peu d’huile d’olive. Pendant ce temps, faite cuire la courgette et les carottes dans de l’eau bouillante pendant 5 minutes."
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Coupez le ou les poivrons en fines lamelles. "
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Préparez la pâte à pizza. "
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Mélanger la sauce napolitaine avec la viande végétale dans un plat et l’étaler en base sur la pâte. "
+		}, {
+			"order": "6",
+			"timerCount": "0",
+			"resume": "Disposer les oignons, les courgettes et les carottes, les poivrons, tomates cerises et le faux fromage selon vos envies. "
+		}, {
+			"order": "7",
+			"timerCount": "1200",
+			"resume": "Mettre la pizza au four en chaleur tournante (ou grill), pendant 20 à 30 minutes selon le dorage voulu à 180°C."
+		}]
+	}
+}, {
+	"recipeID": "3",
+	"name": "Le Superbe Flageolet-Burger",
+	"complexity": "0",
+	"recipeType": "1",
+	"preparationTime": "2",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Burger"
+		]
+	},
+	"resume": "J’aime beaucoup les steaks de soja que l’on peut trouver en grande surface, très bon et très pratique pour faire de bon burger, j’en utilise régulièrement. Il m’arrive cependant parfois d’en avoir ras le bol de manger des plats industriels trop salés et d’avoir envie de me préparer de bons petits steaks maison. D’un autre côté, je trouve que je ne mange pas assez de graines types sésame, pavot au graines de chia. J’ai donc décidé de combiner ces deux envies et j’ai testé pour vous la réalisation de steaks végétaux à base de flageolets aux graines. ",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "54",
+			"quantityPrefix": "1 boîte de 500g de "
+		}, {
+			"productID": "29",
+			"quantityPrefix": "1 cs de "
+		}, {
+			"productID": "51",
+			"quantityPrefix": "2 cs d’"
+		}, {
+			"productID": "55",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "56",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "57",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "58",
+			"quantityPrefix": "1 pincée de "
+		}, {
+			"productID": "59",
+			"quantityPrefix": "4 cs de "
+		}, {
+			"productID": "60",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "61",
+			"quantityPrefix": "1 cs de "
+		}, {
+			"productID": "62",
+			"quantityPrefix": "1 cc d’"
+		}, {
+			"productID": "1",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "20"
+		}, {
+			"productID": "21"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "Pour commencer, mettre les graines de chia dans une tasse avec l’eau et laisser poser quelques minutes. Égoutter ensuite la conserve de flageolet puis vider les flageolets dans un petit plat."
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Écraser avec la fourchette de façon à obtenir une pâte. De mon côté je laisse toujours quelques morceaux de flageolets dans le plat, mais il est aussi possible de passer la pâte au mixer pour obtenir une pâte plus lisse."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Ajouter ensuite les graines de pavot, de chia et de sésame et mélanger bien de façon à répartir les graines de façon uniforme. Ces graines permettent de donner un goût croquant au steak et de consommer ces graines très bonnes pour la santé mais peu utilisées en cuisine."
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Épicer le tout avec le paprika, le piment, la sauge et le cumin afin de donner plus de goût à votre plat, puis saler et poivrer."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Ajouter ensuite la fécule de maïs et bien mélanger."
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Former 4 grosses boules avec la pâtes et former des steaks à la main. Huiler une poêle avec l’huile de coco, faire revenir les oignons puis cuire à feu doux les galettes jusqu’à ce qu’elles soient bien dorées."
+		}]
+	}
+}, {
+	"recipeID": "4",
+	"name": "Les Végans-Sushis",
+	"complexity": "2",
+	"recipeType": "1",
+	"preparationTime": "5",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Sushi"
+		]
+	},
+	"resume": "Les sushis… apparement c’est tout un art. Pour dire vrai je n’ai jamais vraiment raffolé de ce plat avant de devenir végan mais récemment j’ai testé une version totalement végétarienne et depuis j’en suis fan ! Comme on dit.. il n’y a que les 🙀qui ne changent pas d’avis !",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "-1",
+			"quantityPrefix": "Pour un Riz Parfait :"
+		}, {
+			"productID": "37",
+			"quantityPrefix": "50 ml de "
+		}, {
+			"productID": "38",
+			"quantityPrefix": "250 grammes de "
+		}, {
+			"productID": "30",
+			"quantityPrefix": "25 grammes de "
+		}, {
+			"productID": "20"
+		}, {
+			"productID": "-1",
+			"quantityPrefix": "Pour la Sushis :"
+		}, {
+			"productID": "39",
+			"quantityPrefix": "6 "
+		}, {
+			"productID": "40",
+			"quantityPrefix": "6 "
+		}, {
+			"productID": "41"
+		}, {
+			"productID": "42",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "9",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "43"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "L’idéal pour moi, pour cuire au mieux possible le riz, c’est de le faire à la casserole. Verser le riz et le couvrir d’eau puis porter à ébullition sous couvert."
+		}, {
+			"order": "1",
+			"timerLabel": "Vous pouvez maintenant retirer le riz de la cuisson",
+			"timerCount": "600",
+			"resume": "Une fois à ébullition baisser la cuisson à feu doux pendant 10 minutes (varier le temps en fonction de votre type de riz, les meilleurs instructions sont toujours celles sur la boite 🍚). Laisser ensuite reposer une quinzaine de minutes puis verser le riz dans un plat."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Mélanger dans un bol le vinaigre, le sucre et le sel. Ajouter ce mélange sur le riz en mélangeant doucement, couvrir d’un torchon humide. Partons maintenant nous occuper des sushis."
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Coupons les légumes ! Couper les carottes et le concombre en julienne. Pour l’avocat, retirer le noyau et la peau délicatement, couper ensuite la chair du fruit en petit bandeaux assez fins et réguliers."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Arroser l’avocat d’un peu de jus de citron. Passons maintenant à la partie la plus sympathique."
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Préparer un bol d’eau tiède et y ajouter une bonne cuillère à café de vinaigre de riz."
+		}, {
+			"order": "6",
+			"timerCount": "0",
+			"resume": "Disposer une feuille de Nori sur un tapis à sushi en bambou (sans cet accessoire c’est tout de suite plus compliqué… mais pas impossible, une feuille de film alimentaire et hop c’est parti)."
+		}, {
+			"order": "7",
+			"timerCount": "0",
+			"resume": "Trempez légèrement vos doigts dans le bol d’eau, humidifier la feuille de Nori puis répartir du riz dessus de manière homogène en laissant une bande vide de 3 cm sur le bord supérieur."
+		}, {
+			"order": "8",
+			"timerCount": "0",
+			"resume": "Placer les légumes sur une ligne horizontale au centre de la feuille. C’est ici que cela devient créatif, il est possible d’ajouter un peu de tout ce que l’on aime. Moi personnellement, j’aime y mettre une touche de crème fraiche végétale ou quelques tranches de faux-fromages. Soyez imaginatif avec ce que vous avez à disposition."
+		}, {
+			"order": "9",
+			"timerCount": "0",
+			"resume": "Refermer à l’aide du tapis en maintenant bien la garniture au centre. Bien tenir fermement le rouleau et le sceller en mouillant un peu l’extrémité de la feuille de Nori avant de terminer de le rouler."
+		}, {
+			"order": "10",
+			"timerCount": "0",
+			"resume": "Recommencer maintenant jusqu’à venir à bout de tous les ingredients puis placer au frais une petite heure."
+		}, {
+			"order": "11",
+			"timerCount": "0",
+			"resume": "Couper ensuite les bandeaux en petits rouleaux de 2cm et… dégustez !"
+		}]
+	}
+}, {
+	"recipeID": "5",
+	"name": "Sauce apéritif à l'oignon",
+	"complexity": "0",
+	"recipeType": "0",
+	"preparationTime": "0",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Apero",
+			"Carotte"
+		]
+	},
+	"resume": "Ma belle-soeur m'a fait découvrir il y a quelques années, un apéritif léger et délicieux dont mon fiancé raffole. Une sauce fromage-blanc oignon vraiment terrible.   Lorsque nous avons passé le cap du végétalisme, nous étions déçus de ne plus retrouver ce petit plaisir, mais en réfléchissant juste un instant, j'ai trouvé LA SOLUTION : remplacer le fromage blanc par du yaourt au soja, le résultat a été bien plus que satisfaisant. Il est donc tout à fait possible de profiter d'un apéritif léger, délicieux et éthique.    J'ai donc eu envie de vous partager cette recette, pour votre plus grand plaisir.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "14",
+			"quantityPrefix": "1 grand "
+		}, {
+			"productID": "15",
+			"quantityPrefix": "4 "
+		}, {
+			"productID": "9",
+			"quantityPrefix": "3 ou 4 belles "
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Dans un premier temps, versez vos 4 yaourts au soja dans un plat"
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Mélangez petit à petit le sachet de soupe à l'oignon"
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Coupez en morceau les carottes"
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Il ne vous restera plus qu'à profiter entre amis (même omni). Cette recette est vraiment des plus simples et des moins couteuses, alors, à vous de jouer."
+		}]
+	}
+}, {
+	"recipeID": "6",
+	"name": "Soupe à la Tomate",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Soupe"
+		]
+	},
+	"resume": "Ceci est le résumé de cette merveilleuse recette vegan",
+	"listIngredients": {
+		"ingredient": {
+			"productID": "1",
+			"quantityPrefix": "Deux gros"
+		}
+	},
+	"listSteps": {
+		"step": {
+			"order": "0",
+			"timerCount": "15",
+			"resume": "Faire revenir doucement les légumes dans la sauce avec un tout petit peu de vin et porter à ébullisation pendant 15 minutes.",
+			"photo": "343432"
+		}
+	}
+}, {
+	"recipeID": "8",
+	"name": "Tarte aux fruits rouges",
+	"complexity": "1",
+	"recipeType": "2",
+	"preparationTime": "5",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Tarte",
+			"Fruit"
+		]
+	},
+	"resume": "Depuis toute petite et à chaque anniversaire, je rêve de tarte aux fraises. C’est de loin et depuis toujours mon dessert préféré. La crème pâtissière se mélange tellement bien avec les fraises et la pâte sablée est un délice à mes yeux. Alors, depuis notre transition, vous imaginez quelle était ma tristesse de ne plus pouvoir profiter de ce petit plaisir. J’ai donc du remédier rapidement à cette situation et j’ai trouvé MON BONHEUR. J’ai donc très envie de partager avec vous cette recette en espérant qu’elle vous plaira à vous aussi.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "-1",
+			"quantityPrefix": "Pour la pâte :"
+		}, {
+			"productID": "29",
+			"quantityPrefix": "Une pincée de "
+		}, {
+			"productID": "30",
+			"quantityPrefix": "125 g de "
+		}, {
+			"productID": "31",
+			"quantityPrefix": "250 g de "
+		}, {
+			"productID": "20",
+			"quantityPrefix": "Une pincée de "
+		}, {
+			"productID": "-1",
+			"quantityPrefix": "Pour la crème pâtissière :"
+		}, {
+			"productID": "32",
+			"quantityPrefix": "125 cl de "
+		}, {
+			"productID": "15",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "31",
+			"quantityPrefix": "30 g de "
+		}, {
+			"productID": "30",
+			"quantityPrefix": "40 g de "
+		}, {
+			"productID": "33",
+			"quantityPrefix": "1 sachet de "
+		}, {
+			"productID": "36",
+			"quantityPrefix": "100 g de "
+		}, {
+			"productID": "34",
+			"quantityPrefix": "500 g de "
+		}, {
+			"productID": "35",
+			"quantityPrefix": "25 g d’éclats de "
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "600",
+			"resume": "Commencer par mettre dans une petite tasse une cuillère à soupe de graine de chia. Ajouter 2 c.s d’eau et laissez reposer pendant 10 minutes. Les graines de chia servent à remplacer l’oeuf en tant que liant. Cela peut sembler étrange et je n’y croyais pas vraiment mais ce mélange permet de retrouver la consistance d’un jaune d’oeuf."
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Verser les graines de chia, la pincée de sel et le sucre dans un bol, mélanger jusqu’à obtenir une texture homogène."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Faire fondre le beurre végétal dans une casserole à feu moyen, ne pas hésiter à le laisser devenir bien liquide. Vous pouvez à ce moment commencer à préchauffer le four à 200°C."
+		}, {
+			"order": "3",
+			"timerCount": "300",
+			"resume": "Mettre la farine dans un plat et créer un puit au centre. Verser dans ce puit le sucre et les graines de chia, ainsi que le beurre fondu. Commencer à mélanger avec une cuillère, puis pétrir à la main pendant 5 minutes."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Une fois la pâte correctement pétrie, former une boule et placer là sur du papier cuisson. Étaler la pâte, puis la mettre dans une tourtière. Former le contour en n’hésitant pas à couper et réincorporez des morceaux de pâte afin que le contour soit parfait."
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Enfin, faite cuire la pâte au four à 180°C pendant 20 minutes. Attention, même si la pâte ne semble pas dorée ou si elle semble molle passé ce délai, il n’est pas nécessaire de la remettre à cuire. La pâte sablée durcit en refroidissant, il faut donc la mettre au frigo dès que la tarte sera prête."
+		}, {
+			"order": "6",
+			"timerCount": "0",
+			"resume": "Dans un bol, mettre le sucre et le yaourt au soja, tourner jusqu’à obtenir un mélange uniforme. Incorporer ensuite la farine, tout en continuant de mélanger."
+		}, {
+			"order": "7",
+			"timerCount": "0",
+			"resume": "Commencer par faire bouillir le lait avec le sucre vanillé. Verser ce mélange doucement dans le bol, et touiller, mettre ce mélange dans le bol et faire bouillir à nouveau en mélangeant, jusqu’à obtenir une bonne crème."
+		}, {
+			"order": "8",
+			"timerCount": "0",
+			"resume": "Répartir la crème sur la pâte uniformément. Couper les fraises en deux et les disposer sur la tarte. Les fraises peuvent être remplacées par d’autres fruits, notamment des fruits rouges. Les myrtilles se prêtent tout particulièrement bien aussi à cette recette."
+		}, {
+			"order": "9",
+			"timerCount": "0",
+			"resume": "Vous pouvez si vous le désirez, acheter un nappage pour tarte, ce que j’ai fait dans cet exemple, dans ce cas, il suffit de suivre les recommandations du produit et de déposer le nappage doucement au pinceau sur les fruits."
+		}, {
+			"order": "10",
+			"timerCount": "0",
+			"resume": "Parsemer la tarte d’éclats de pistache, de noisettes ou de pralines si vous le désirez. Pour ma part, puisque j’ai choisi le pseudo pistache vegan, j’ai décidé de vous faire un petit clin d’oeil en choisissant la pistache qui je trouve s’accommode très bien à la tarte."
+		}, {
+			"order": "11",
+			"timerCount": "0",
+			"resume": "Mettre la tarte au frigo pendant une bonne heure, puis découper la tarte et la disposer dans de petites assiettes, vous pourrez ainsi présenter un dessert succulent, esthétique et éthique qui régalera tout vos proches."
+		}]
+	}
+}, {
+	"recipeID": "9",
+	"name": "Pattes à la bolognaise",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Pattes"
+		]
+	},
+	"resume": "Lorsque l’on décide d’opter pour le végétalisme, il est toujours important de varier les légumes, céréales, afin de combler tout nos besoin. Notre entourage se plait souvent à nous parler de nos soit-disant carences en espérant nous faire « revenir dans le droit chemin ». Même si les « omnivores » sont loin d’être à l’abris de carences, il est vrai que notre mode de vie (quelque soit la raison pour laquelle nous l’avons choisit) nous pousse à faire plus ou moins attentions à nos apports. Les lentilles par exemple permettent notamment un excellent apport en fer, mais j’avoue que de mon côté j’ai tendance à trouver cela un peu fade, alors difficile de me forcer à en manger régulièrement. Pourquoi je vous parle de cela dans une recette de pâte bolognaise ? Il me semble simplement avoir trouvé la solution pour vous faire manger des lentilles sans même que vous ne vous en rendiez compte. Elle n’est pas belle la vie ?",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "18",
+			"quantityPrefix": "250g de "
+		}, {
+			"productID": "19",
+			"quantityPrefix": "200g de "
+		}, {
+			"productID": "7",
+			"quantityPrefix": "200g de "
+		}, {
+			"productID": "26",
+			"quantityPrefix": "400g de "
+		}, {
+			"productID": "13",
+			"quantityPrefix": "150g de "
+		}, {
+			"productID": "1",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "3",
+			"quantityPrefix": "1c.s. d'"
+		}, {
+			"productID": "27",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "28",
+			"quantityPrefix": "2c.s d’"
+		}, {
+			"productID": "20"
+		}, {
+			"productID": "21"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "900",
+			"resume": "Rincer les lentilles à grande eau puis éliminer celles qui flottent et les éventuels cailloux. Verser les lentilles dans 3 fois leur volume d’eau froide. Porter à ébullition puis laisser cuire 15 minutes à feu doux. "
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Émincez l’oignon, puis faites le revenir dans de l’huile d’olive dans une casserole"
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Ajoutez à l’oignon, la sauce tomate, ainsi que la viande végétale écrasée, mélangez. "
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Faites bouillir à nouveau de l’eau avec deux cubes de bouillon de légumes. (Les cubes sont facultatifs, cependant, je trouve que cela donne plus de goût aux pâtes.). Ajoutez les pâtes et faites les cuire selon les instructions données sur l’emballage."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Pendant, ce temps, égoutez et ajouter les lentilles à la sauce, salez, poivrez. Mélangez la sauce et laisser cuire pendant 5 minutes en remuant."
+		}, {
+			"order": "5",
+			"timerCount": "0",
+			"resume": "Râpez du faux-mage dans un bol si vous en avez la possibilité et l’envie. Dressez, servez et régalez-vous !"
+		}]
+	}
+}, {
+	"recipeID": "10",
+	"name": "Wrap sauce bolo",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": "Vegan"
+	},
+	"resume": "Ceci est le résumé de cette merveilleuse recette vegan",
+	"listIngredients": {
+		"ingredient": {
+			"productID": "1",
+			"quantityPrefix": "Deux gros"
+		}
+	},
+	"listSteps": {
+		"step": {
+			"order": "0"
+		}
+	}
+}, {
+	"recipeID": "11",
+	"name": "Galette des rois",
+	"complexity": "1",
+	"recipeType": "2",
+	"preparationTime": "3",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Gateau"
+		]
+	},
+	"resume": "Finit les galettes des rois lorsqu’on est vegan ? Non. Rien n’est impossible, tout peut se « végétaliser ». Au final, la frangipane c’est quoi ? De la poudre d’amande. À l’épiphanie, vous aussi vous pourrez devenir le roi de la journée.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "50",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "46",
+			"quantityPrefix": "140g de "
+		}, {
+			"productID": "30",
+			"quantityPrefix": "100 g de "
+		}, {
+			"productID": "15",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "36",
+			"quantityPrefix": "75 g de "
+		}, {
+			"productID": "32",
+			"quantityPrefix": "2 cl "
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "Pour commencer, mettre une pâte feuilletée dans un moule à tarte. La pâte feuilletée en magasin peut se trouver sans produit d’origine animale facilement et même sans gluten. La pâte feuilletée étant assez difficile à réaliser, j’ai choisi dans ce cas la facilité, mais il est tout à fait imaginable de la réaliser de vos propres mains (courage)."
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Dans un bol, mélanger la poudre d’amande, le sucre, les deux yaourts et la margarine.  Verser le contenu du bol sur la pâte étaler et cacher y la fève."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Recouvrir la tarte avec la seconde pâte, ne pas hésiter à recouper la pâte si elle est trop grande. Fermer soigneusement les bords des pâtes de façon à former la galette."
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Décorer votre pâte, prendre un pinceau et étaler le lait de soja de façon à remplacer l’oeuf pour dorer la pâte."
+		}, {
+			"order": "4",
+			"timerCount": "1200",
+			"resume": "Cuire pendant 20 à 30 minutes à 180 degrés. Pour une cuisson optimale, vous pouvez aussi mettre la galette directement sur du papier cuisson plutôt que dans le moule. Le moule servant dans ce cas à donner la bonne forme à votre galette. Ne pas oublier la fève et même prévoir la couronne"
+		}]
+	}
+}, {
+	"recipeID": "12",
+	"name": "Mini-Beignets au sucre",
+	"complexity": "1",
+	"recipeType": "2",
+	"preparationTime": "6",
+	"listTags": {
+		"tag": "Vegan"
+	},
+	"resume": "Les petits plaisirs sucrés ne font de mal à personne. Moins gras, plus sain et plus éthique, cette recette de beignets vous permettra de grignoter sans culpabilité. Cette recette pour avoir été testée des centaines de fois, plait aussi à tous, on n’y voit que du feu. Une bonne petite recette pour montrer que les vegan ne mangent pas que des carottes et des graines.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "-1",
+			"quantityPrefix": "Pour 60 petits beignets"
+		}, {
+			"productID": "31",
+			"quantityPrefix": "500 g de "
+		}, {
+			"productID": "44",
+			"quantityPrefix": "50 g de "
+		}, {
+			"productID": "20",
+			"quantityPrefix": "1 pincée de "
+		}, {
+			"productID": "45",
+			"quantityPrefix": "1 cs de "
+		}, {
+			"productID": "46",
+			"quantityPrefix": "30 g de "
+		}, {
+			"productID": "47",
+			"quantityPrefix": "10 g de "
+		}, {
+			"productID": "32",
+			"quantityPrefix": "350 cl "
+		}, {
+			"productID": "48",
+			"quantityPrefix": "20 g d'"
+		}, {
+			"productID": "49",
+			"quantityPrefix": "1 Litre d'"
+		}, {
+			"productID": "30",
+			"quantityPrefix": "100 g de "
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"resume": "Mélanger dans un saladier : la farine, le sucre blond, la pincée de sel, et la levure boulangère."
+		}, {
+			"order": "1",
+			"resume": "Ajouter la purée d’amande et l’huile de noisette et mélanger."
+		}, {
+			"order": "2",
+			"resume": "Ajouter le lait et la fleur d’oranger puis pétrir pendant 5-10 minutes la pâte."
+		}, {
+			"order": "3",
+			"resume": "Former une boule avec la pâte et la déposer dans un saladier légèrement huilé."
+		}, {
+			"order": "4",
+			"timerCount": "7200",
+			"resume": "Laisser monter la pâte pendant 2 heures dans le réfrigérateur."
+		}, {
+			"order": "5",
+			"timerCount": "2400",
+			"resume": "Former de petites boules de pâte à l’aide d’une petite cuillère. Les disposer sur des assiettes et laisser reposer pendant 40 minutes."
+		}, {
+			"order": "6",
+			"resume": "Faire chauffer l’huile de tournesol dans une casserole et mettre les boules de pâtes à frire, puis rouler les boules de pâtes dans le sucre."
+		}]
+	}
+}, {
+	"recipeID": "13",
+	"name": "Potage onctueux au butternut",
+	"complexity": "0",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": [
+			"Vegan",
+			"Soupe"
+		]
+	},
+	"resume": "La recette incontestablement préférée de mon amoureux qui attend avec la plus grande impatience le mois d’octobre pour pouvoir commencer à en manger. Le butternut permet de faire un potage onctueux, crémeux et doux. C’est un véritable délice qui vous réconfortera pendant l’hiver, à déguster avec de bons petits pains grillés à la terrine végétale ou avec un bon petit faux-mage à tartiner.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "-1",
+			"quantityPrefix": "Pour 4 personnes"
+		}, {
+			"productID": "51",
+			"quantityPrefix": "1 litre d’"
+		}, {
+			"productID": "52",
+			"quantityPrefix": "700 g de "
+		}, {
+			"productID": "53",
+			"quantityPrefix": "5 branches de "
+		}, {
+			"productID": "1",
+			"quantityPrefix": "1 gros "
+		}, {
+			"productID": "27",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "3",
+			"quantityPrefix": "1 cs d’"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "Couper en petits cubes le butternut. Ne pas hésiter à prendre de gros couteaux, le butternut est très résistant et la découpe peut s’avérer ardue (surtout si vous essayer d’éviter au maximum les pertes)."
+		}, {
+			"order": "1",
+			"timerCount": "0",
+			"resume": "Émincer l’oignon et le faire revenir dans l’huile d’olive. Une fois cette étape terminée, ajouter le litre d’eau et les cubes de bouillon de légume et laisser bouillir."
+		}, {
+			"order": "2",
+			"timerCount": "2400",
+			"resume": "Ajouter les cubes de butternut et ciseler le persil sur le dessus. Laisser cuire 40 minutes tout en mélangeant de temps en temps."
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Une fois la cuisson terminée, mixer délicatement la soupe au robot, vérifier qu’il ne reste pas de morceaux. Si le potage est trop épais ne pas hésiter à rajouter un peu d’eau et à mélanger à nouveau."
+		}]
+	}
+}, {
+	"recipeID": "14",
+	"name": "Riz au tofu et petits légumes",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": "Vegan"
+	},
+	"resume": "En allant au marché, j’ai eu envie d’acheter pleins de légumes et de faire un petit test de repas rempli de légumes. L’aubergine n’étant pas mon ingrédient préféré, j’avais envie de trouver une solution pour pouvoir en manger sans être écoeurée, cette recette s’est avérée très efficace. Voilà une petite recette inventée sur le moment qui deviendra sûrement l’une de mes favorites.",
+	"listIngredients": {
+		"ingredient": [{
+			"productID": "8",
+			"quantityPrefix": "1 petite "
+		}, {
+			"productID": "16",
+			"quantityPrefix": "1 petite "
+		}, {
+			"productID": "1",
+			"quantityPrefix": "1 "
+		}, {
+			"productID": "63",
+			"quantityPrefix": "2 branches de "
+		}, {
+			"productID": "11",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "64",
+			"quantityPrefix": "1 bloc de "
+		}, {
+			"productID": "62",
+			"quantityPrefix": "2 cs d’"
+		}, {
+			"productID": "65",
+			"quantityPrefix": "1 petit verre de "
+		}, {
+			"productID": "66",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "67",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "60",
+			"quantityPrefix": "2 cs de "
+		}, {
+			"productID": "27",
+			"quantityPrefix": "2 "
+		}, {
+			"productID": "68",
+			"quantityPrefix": "240 g de "
+		}, {
+			"productID": "69",
+			"quantityPrefix": "3,4 feuilles de "
+		}, {
+			"productID": "20"
+		}, {
+			"productID": "21"
+		}]
+	},
+	"listSteps": {
+		"step": [{
+			"order": "0",
+			"timerCount": "0",
+			"resume": "Couper en petits cube l’aubergine avec la peau, la courgette éplucher. Couper en tranche les branches de céleri."
+		}, {
+			"order": "1",
+			"timerCount": "900",
+			"resume": "Faire bouillir de l’eau avec 2 cubes de bouillons de légumes et y tremper l’aubergine, la courgette et le céleri. Laisser cuire pendant 15 minutes."
+		}, {
+			"order": "2",
+			"timerCount": "0",
+			"resume": "Égoutter ensuite et récupérer le bouillon de légume dans une casserole. "
+		}, {
+			"order": "3",
+			"timerCount": "0",
+			"resume": "Émincer l’oignon et le faire revenir dans de l’huile de coco (ou toute autre huile végétale)."
+		}, {
+			"order": "4",
+			"timerCount": "0",
+			"resume": "Ajouter ensuite le petit verre de sauce soja, le vinaigre balsamique et la mélasse de sucre de canne."
+		}, {
+			"order": "5",
+			"timerCount": "300",
+			"resume": "Couper le tofu en cube et l’ajouter à la sauce, laisser cuire dans la sauce en mélangeant pendant 5 minutes à forte température."
+		}, {
+			"order": "6",
+			"timerCount": "600",
+			"resume": "Faire cuire le riz dans le bouillon de légumes pendant 10 minutes."
+		}, {
+			"order": "7",
+			"timerCount": "0",
+			"resume": "Égouter et mettre dans un plat avec un peu d’huile pour ne pas que le riz colle."
+		}, {
+			"order": "8",
+			"timerCount": "600",
+			"resume": "Ajouter le poivron et les autres légumes dans la sauce, ajouter le cumin, le sel, le poivre et et les feuilles de laurier. Cuire pendant 10 minutes. Vous pouvez déguster. "
+		}]
+	}
+}, {
+	"recipeID": "15",
+	"name": "new recette",
+	"complexity": "1",
+	"recipeType": "1",
+	"preparationTime": "4",
+	"listTags": {
+		"tag": "Vegan"
+	},
+	"resume": "Ceci est le résumé de cette merveilleuse recette vegan",
+	"listIngredients": {
+		"ingredient": {
+			"productID": "-1"
+		}
+	},
+	"listSteps": {
+		"step": {
+			"order": "0",
+			"timerCount": "0",
+			"resume": "test"
+		}
+	}
+}]
