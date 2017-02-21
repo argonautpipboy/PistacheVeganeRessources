@@ -916,26 +916,4 @@
 			"resume": "Ajouter le poivron et les autres légumes dans la sauce, ajouter le cumin, le sel, le poivre et et les feuilles de laurier. Cuire pendant 10 minutes. Vous pouvez déguster. "
 		}]
 	}
-}, {
-	"recipeID": "15",
-	"name": "new recette",
-	"complexity": "1",
-	"recipeType": "1",
-	"preparationTime": "4",
-	"listTags": {
-		"tag": "Vegan"
-	},
-	"resume": "Ceci est le résumé de cette merveilleuse recette vegan",
-	"listIngredients": {
-		"ingredient": {
-			"productID": "-1"
-		}
-	},
-	"listSteps": {
-		"step": {
-			"order": "0",
-			"timerCount": "0",
-			"resume": "test"
-		}
-	}
 }]
